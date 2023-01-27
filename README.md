@@ -1,4 +1,4 @@
-# EKS Containers Lab for Parners
+# Bootcamp DevOps - EKS Lab for Parners
 
 This is the official repository of assets related to EKS Containers Lab for Parners.
 
