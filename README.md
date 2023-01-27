@@ -6,7 +6,7 @@ This is the official repository of assets related to EKS Containers Lab for Parn
 
 The content of this repository was localized in Brazilian Portuguese and can be found here:
 
-- [Brazilian Portuguese (Português do Brasil)](workshops/README-pt_BR.md)
+- [Brazilian Portuguese (Português do Brasil)](workshops/eks/docs/pt_BR/README.md)
 
 ## Security
 
