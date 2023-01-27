@@ -1,13 +1,12 @@
-# LATAM Containers Roadshow
+# EKS Containers Lab for Parners
 
-This is the official repository of assets related to LATAM Containers Roadshow, an all-day customer-facing event to highlight our Container Services (Amazon EKS, ECS, ROSA and ECR) for customers from Latin America. The event is a combination of presentations, customer and partner showcases, and hands-on workshops, with content ranging from level 100 to 300.
+This is the official repository of assets related to EKS Containers Lab for Parners.
 
 ## Getting Started
 
-The content of this repository was localized to the most common languages in Latin America, Brazilian Portuguese and Spanish. So, please select your preferred language below:
+The content of this repository was localized in Brazilian Portuguese and can be found here:
 
 - [Brazilian Portuguese (Português do Brasil)](workshops/README-pt_BR.md)
-- [Spanish (Español) - TBA](#)
 
 ## Security
 
